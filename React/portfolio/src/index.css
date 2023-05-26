@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    background-color: rgb(243, 240, 238);
+    width: 100%;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+#foto_header{
+    width: 13%;
+    display: block;
+    margin: auto;
+
+}
+
+#h1_header{
+    
+    font-size: 36px;
+    text-align: center;
+    padding: 30px;
+    
+
+}
+
+
+#p_main{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#div_main{
+    background-color:rgb(222, 160, 67);
+    width: 100%;
+}
+
+#main{
+    background-color: rgb(0, 0, 0);
+}
+
+
+footer{
+    background-color: black;
+    
+}
+
+
+#img_footer{
+    width: 130px;
+    padding: 30px;
+}
+
+#p_footer{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-body{
+    background-color: rgb(219, 121, 121);
+}
+
+
+.card-text{
+    font-size: 20px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav{
+    background-color: rgb(146, 80, 64);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.boton_contacto{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+}
+
+.form1{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.label_form{
+    padding: 8px;
+    margin: 14px;
+    font-size: 30px;
+}
+
+.buton_form{
+    font-size: 20px;
+}
+
+.body_form{
+    background-color: rgb(219, 245, 236);
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.nav2{
+    font-size: 30px;
+    color: black;
+    padding: 9px;
+    margin: 2px;
+    
+}
+
+.boton_contacto2{
+    text-align: end;
+    color: rgb(240, 5, 5);
+    padding: 20px;
+}
+
+.h1_form{
+    text-align: center;
+    
+}
+
+.form2{
+    border: 8px black solid;
+    text-align: center;
+}
